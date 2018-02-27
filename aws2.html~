@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>RIYA SINHA</title>
+</head>
+<br>
+<body background="background.jpg" >
+	<style>
+		div{
+			width:850px;
+			height: 100px;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: right;
+		}
+		h1,h2{
+			margin-top: 20px;
+			margin-bottom: 20px;
+		}
+	</style>
+	<h1 align="Center"><font size="10" color="white">INTO MY HEAD</h1>
+	
+	<h2 align="Center" size="6" style="color:black ;width:100%; height: 80px" >
+		<a href="aws1.htm"><font size="6" color="white" >HOME</font></a> 
+		<a href="aws2.htm"><font size="6" color="white" >ABOUT ME</font></a>
+		<a href="aws3.htm"><font size="6" color="white">BLOGS</font></a>
+		<a href="aws4.htm"><font size="6" color="white">CONTACT ME </font></a>
+	</h2>
+	<div>
+	<p align="center"  style="line-height: 0.54"><font face="Arial" size="4" color="white">
+	My life has been kind of a nomadic one. I had changed nine institutes during my school days. Don't worry, I wasn't kicked out of them, it's just that my father has had a nomadic life too and many a times I changed them in the same city for better education. I think my longest strike in a school was for three and a half years. <br>
+	So, I have lived at a lot of places in my short life. I was born in Vadodara, Gujarat and have spent a lot of time at Ahmedabad. Being my grandparents' home, I have visited it at least once every year. But the years that have shaped a major part of me have been spent in Doha, Qatar. I have spent almost six years in the country and will still go back during my vacations. <br>
+	Moving on to my interests, I happen to be a foodie. Food is my one true love. I love a lot of the different cuisines in the world and world brings me to my other passion-Travel. I don't want to travel the world as a tourist, rather, as a traveller. I want to experience different cultures and traditions of different countries of the world and enjoy them all. I also like sports and tennis is my favourite one. Another dream of mine would be to watch Wimbledon from the lower box. And last but not the least, I love to read and write. Books are my soulmates and best friends.
+	
+	</font> </p>
+	</div>
+
+
+</body>
+</html>
